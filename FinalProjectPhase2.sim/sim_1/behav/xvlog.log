@@ -1,0 +1,66 @@
+INFO: [VRFC 10-2263] Analyzing Verilog file "C:/Users/ramos/Desktop/369FinalProject_Fall2019/Phase2Files/ProgramCounter.v" into library xil_defaultlib
+INFO: [VRFC 10-311] analyzing module ProgramCounter
+INFO: [VRFC 10-2263] Analyzing Verilog file "C:/Users/ramos/Desktop/369FinalProject_Fall2019/Phase2Files/Add.v" into library xil_defaultlib
+INFO: [VRFC 10-311] analyzing module Add
+INFO: [VRFC 10-2263] Analyzing Verilog file "C:/Users/ramos/Desktop/369FinalProject_Fall2019/Phase2Files/ALU32Bit.v" into library xil_defaultlib
+INFO: [VRFC 10-311] analyzing module ALU32Bit
+INFO: [VRFC 10-2263] Analyzing Verilog file "C:/Users/ramos/Desktop/369FinalProject_Fall2019/Phase2Files/SignExtension.v" into library xil_defaultlib
+INFO: [VRFC 10-311] analyzing module SignExtension
+INFO: [VRFC 10-2263] Analyzing Verilog file "C:/Users/ramos/Desktop/369FinalProject_Fall2019/Phase2Files/Hi_Lo_reg.v" into library xil_defaultlib
+INFO: [VRFC 10-311] analyzing module HiLo_reg
+INFO: [VRFC 10-2263] Analyzing Verilog file "C:/Users/ramos/Desktop/369FinalProject_Fall2019/Phase2Files/InstructionMemory.v" into library xil_defaultlib
+INFO: [VRFC 10-311] analyzing module InstructionMemory
+INFO: [VRFC 10-2263] Analyzing Verilog file "C:/Users/ramos/Desktop/369FinalProject_Fall2019/Phase2Files/DataMemory.v" into library xil_defaultlib
+INFO: [VRFC 10-311] analyzing module DataMemory
+INFO: [VRFC 10-2263] Analyzing Verilog file "C:/Users/ramos/Desktop/369FinalProject_Fall2019/Phase2Files/Mux32Bit2To1.v" into library xil_defaultlib
+INFO: [VRFC 10-311] analyzing module Mux32Bit2To1
+INFO: [VRFC 10-2263] Analyzing Verilog file "C:/Users/ramos/Desktop/369FinalProject_Fall2019/Phase2Files/ShiftLeft2.v" into library xil_defaultlib
+INFO: [VRFC 10-311] analyzing module ShiftLeft2
+INFO: [VRFC 10-2263] Analyzing Verilog file "C:/Users/ramos/Desktop/369FinalProject_Fall2019/Phase2Files/Mux5Bit4To1.v" into library xil_defaultlib
+INFO: [VRFC 10-311] analyzing module Mux5Bit4To1
+INFO: [VRFC 10-2263] Analyzing Verilog file "C:/Users/ramos/Desktop/369FinalProject_Fall2019/Phase2Files/Controller.v" into library xil_defaultlib
+INFO: [VRFC 10-311] analyzing module Controller
+INFO: [VRFC 10-2263] Analyzing Verilog file "C:/Users/ramos/Desktop/369FinalProject_Fall2019/Phase2Files/RegisterFile.v" into library xil_defaultlib
+INFO: [VRFC 10-311] analyzing module RegisterFile
+INFO: [VRFC 10-2263] Analyzing Verilog file "C:/Users/ramos/Desktop/369FinalProject_Fall2019/Phase2Files/PCAdder.v" into library xil_defaultlib
+INFO: [VRFC 10-311] analyzing module PCAdder
+INFO: [VRFC 10-2263] Analyzing Verilog file "C:/Users/ramos/Desktop/369FinalProject_Fall2019/Phase2Files/Mux32Bit4To1.v" into library xil_defaultlib
+INFO: [VRFC 10-311] analyzing module Mux32Bit4To1
+INFO: [VRFC 10-2263] Analyzing Verilog file "C:/Users/ramos/Desktop/369FinalProject_Fall2019/Phase2Files/SevenSegment.v" into library xil_defaultlib
+INFO: [VRFC 10-311] analyzing module SevenSegment
+INFO: [VRFC 10-2263] Analyzing Verilog file "C:/Users/ramos/Desktop/369FinalProject_Fall2019/Phase2Files/WriteBack.v" into library xil_defaultlib
+INFO: [VRFC 10-311] analyzing module WriteBack
+INFO: [VRFC 10-2263] Analyzing Verilog file "C:/Users/ramos/Desktop/369FinalProject_Fall2019/Phase2Files/InstructionFetchUnit.v" into library xil_defaultlib
+INFO: [VRFC 10-311] analyzing module InstructionFetchUnit
+INFO: [VRFC 10-2263] Analyzing Verilog file "C:/Users/ramos/Desktop/369FinalProject_Fall2019/Phase2Files/And.v" into library xil_defaultlib
+INFO: [VRFC 10-311] analyzing module And
+INFO: [VRFC 10-2263] Analyzing Verilog file "C:/Users/ramos/Desktop/369FinalProject_Fall2019/Phase2Files/InstructionDecode.v" into library xil_defaultlib
+INFO: [VRFC 10-311] analyzing module InstructionDecode
+INFO: [VRFC 10-2263] Analyzing Verilog file "C:/Users/ramos/Desktop/369FinalProject_Fall2019/Phase2Files/MemoryAccess.v" into library xil_defaultlib
+INFO: [VRFC 10-311] analyzing module MemoryAccess
+INFO: [VRFC 10-2263] Analyzing Verilog file "C:/Users/ramos/Desktop/369FinalProject_Fall2019/Phase2Files/ForwardingUnit.v" into library xil_defaultlib
+INFO: [VRFC 10-311] analyzing module ForwardingUnit
+INFO: [VRFC 10-2263] Analyzing Verilog file "C:/Users/ramos/Desktop/369FinalProject_Fall2019/Phase2Files/MEM_WB_reg.v" into library xil_defaultlib
+INFO: [VRFC 10-311] analyzing module MEM_WB_reg
+INFO: [VRFC 10-2263] Analyzing Verilog file "C:/Users/ramos/Desktop/369FinalProject_Fall2019/Phase2Files/EX_MEM_reg.v" into library xil_defaultlib
+INFO: [VRFC 10-311] analyzing module EX_MEM_reg
+INFO: [VRFC 10-2263] Analyzing Verilog file "C:/Users/ramos/Desktop/369FinalProject_Fall2019/Phase2Files/Execute.v" into library xil_defaultlib
+INFO: [VRFC 10-311] analyzing module Execute
+INFO: [VRFC 10-2263] Analyzing Verilog file "C:/Users/ramos/Desktop/369FinalProject_Fall2019/Phase2Files/HazardDetection.v" into library xil_defaultlib
+INFO: [VRFC 10-311] analyzing module HazardDetection
+INFO: [VRFC 10-2263] Analyzing Verilog file "C:/Users/ramos/Desktop/369FinalProject_Fall2019/Phase2Files/IF_ID_reg.v" into library xil_defaultlib
+INFO: [VRFC 10-311] analyzing module IF_ID_reg
+INFO: [VRFC 10-2263] Analyzing Verilog file "C:/Users/ramos/Desktop/369FinalProject_Fall2019/Phase2Files/ID_EX_reg.v" into library xil_defaultlib
+INFO: [VRFC 10-311] analyzing module ID_EX_reg
+INFO: [VRFC 10-2263] Analyzing Verilog file "C:/Users/ramos/Desktop/369FinalProject_Fall2019/Phase2Files/Two4DigitDisplay.v" into library xil_defaultlib
+INFO: [VRFC 10-311] analyzing module Two4DigitDisplay
+INFO: [VRFC 10-2263] Analyzing Verilog file "C:/Users/ramos/Desktop/369FinalProject_Fall2019/Phase2Files/ClkDiv.v" into library xil_defaultlib
+INFO: [VRFC 10-311] analyzing module ClkDiv
+INFO: [VRFC 10-2263] Analyzing Verilog file "C:/Users/ramos/Desktop/369FinalProject_Fall2019/Phase2Files/Datapath.v" into library xil_defaultlib
+INFO: [VRFC 10-311] analyzing module Datapath
+INFO: [VRFC 10-2263] Analyzing Verilog file "C:/Users/ramos/Desktop/369FinalProject_Fall2019/Phase2Files/Top.v" into library xil_defaultlib
+INFO: [VRFC 10-311] analyzing module Top
+INFO: [VRFC 10-2263] Analyzing Verilog file "C:/Users/ramos/Desktop/369FinalProject_Fall2019/FinalProjectPhase2/FinalProjectPhase2.srcs/sim_1/new/Top_tb.v" into library xil_defaultlib
+INFO: [VRFC 10-311] analyzing module Top_tb
+INFO: [VRFC 10-2263] Analyzing Verilog file "C:/Users/ramos/Desktop/369FinalProject_Fall2019/FinalProjectPhase2/FinalProjectPhase2.sim/sim_1/behav/glbl.v" into library xil_defaultlib
+INFO: [VRFC 10-311] analyzing module glbl

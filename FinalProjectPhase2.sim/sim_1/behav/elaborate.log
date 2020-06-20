@@ -1,0 +1,46 @@
+Vivado Simulator 2016.2
+Copyright 1986-1999, 2001-2016 Xilinx, Inc. All Rights Reserved.
+Running: C:/Programs_Ramos/Xilinx/Vivado/2016.2/bin/unwrapped/win64.o/xelab.exe -wto 349aa729a9254243865b95f042b5205b --debug typical --relax --mt 2 -L xil_defaultlib -L unisims_ver -L unimacro_ver -L secureip --snapshot Top_tb_behav xil_defaultlib.Top_tb xil_defaultlib.glbl -log elaborate.log 
+Using 2 slave threads.
+Starting static elaboration
+WARNING: [VRFC 10-278] actual bit length 32 differs from formal bit length 16 for port NumberA [C:/Users/ramos/Desktop/369FinalProject_Fall2019/Phase2Files/Top.v:25]
+Completed static elaboration
+Starting simulation data flow analysis
+WARNING: [XSIM 43-4099] "C:/Users/ramos/Desktop/369FinalProject_Fall2019/Phase2Files/ClkDiv.v" Line 1. Module ClkDiv doesn't have a timescale but at least one module in design has a timescale.
+WARNING: [XSIM 43-4099] "C:/Users/ramos/Desktop/369FinalProject_Fall2019/Phase2Files/ClkDiv.v" Line 1. Module ClkDiv doesn't have a timescale but at least one module in design has a timescale.
+Completed simulation data flow analysis
+Time Resolution for simulation is 1ps
+Compiling module xil_defaultlib.Mux32Bit2To1
+Compiling module xil_defaultlib.ProgramCounter
+Compiling module xil_defaultlib.PCAdder
+Compiling module xil_defaultlib.InstructionMemory
+Compiling module xil_defaultlib.InstructionFetchUnit
+Compiling module xil_defaultlib.IF_ID_reg
+Compiling module xil_defaultlib.Controller
+Compiling module xil_defaultlib.RegisterFile
+Compiling module xil_defaultlib.SignExtension
+Compiling module xil_defaultlib.InstructionDecode
+Compiling module xil_defaultlib.ID_EX_reg
+Compiling module xil_defaultlib.HazardDetection
+Compiling module xil_defaultlib.ForwardingUnit
+Compiling module xil_defaultlib.ShiftLeft2
+Compiling module xil_defaultlib.Add
+Compiling module xil_defaultlib.Mux32Bit4To1
+Compiling module xil_defaultlib.ALU32Bit
+Compiling module xil_defaultlib.HiLo_reg
+Compiling module xil_defaultlib.Mux5Bit4To1
+Compiling module xil_defaultlib.Execute
+Compiling module xil_defaultlib.EX_MEM_reg
+Compiling module xil_defaultlib.And
+Compiling module xil_defaultlib.DataMemory
+Compiling module xil_defaultlib.MemoryAccess
+Compiling module xil_defaultlib.MEM_WB_reg
+Compiling module xil_defaultlib.WriteBack
+Compiling module xil_defaultlib.Datapath
+Compiling module xil_defaultlib.SevenSegment
+Compiling module xil_defaultlib.Two4DigitDisplay
+Compiling module xil_defaultlib.ClkDiv
+Compiling module xil_defaultlib.Top
+Compiling module xil_defaultlib.Top_tb
+Compiling module xil_defaultlib.glbl
+Built simulation snapshot Top_tb_behav
